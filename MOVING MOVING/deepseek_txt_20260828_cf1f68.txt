@@ -1,0 +1,6 @@
+# app/robots.txt
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Sitemap: https://movingmoving.vercel.app/sitemap.xml
